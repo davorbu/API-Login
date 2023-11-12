@@ -1,0 +1,80 @@
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.AssemblyReference.cache
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.AssemblyInfoInputs.cache
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.AssemblyInfo.cs
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.exe
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.deps.json
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.runtimeconfig.json
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.pdb
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davor\JwtAuthDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\scopedcss\bundle\JwtAuthDemo.styles.css
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.CopyComplete
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.dll
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\refint\JwtAuthDemo.dll
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.pdb
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.genruntimeconfig.cache
+C:\Users\davor\JwtAuthDemo\obj\Debug\net7.0\ref\JwtAuthDemo.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.exe
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.deps.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.runtimeconfig.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\JwtAuthDemo.pdb
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.AssemblyReference.cache
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.AssemblyInfoInputs.cache
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.AssemblyInfo.cs
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\scopedcss\bundle\JwtAuthDemo.styles.css
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.csproj.CopyComplete
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\refint\JwtAuthDemo.dll
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.pdb
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\JwtAuthDemo.genruntimeconfig.cache
+C:\Users\davor\OneDrive\Radna površina\JwtAuthDemo\obj\Debug\net7.0\ref\JwtAuthDemo.dll
